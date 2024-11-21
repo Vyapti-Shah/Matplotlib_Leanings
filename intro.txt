@@ -1,0 +1,32 @@
+What is Data Visualization?
+A quick and easy way to convey concepts in a universal manner (large data mein se particular data ko read krne data visualization is used)
+To read a data graphically or diagramatically using charts, graphs and maps
+
+Libraries for Data Visualization:-
+ 1. Mathplotlib - low level, provides lots of freedom
+ 2. Pandas Visualization - easy to use, built on Mathplotlib
+ 3. Seaborn - high level interface, great default styles 
+ 4. ggplot - based on R's ggplot2, uses Grammar of Graphics
+ 5. Plotly - can create interactive plots
+
+Mathplotlib : 2D and 3D plotting python library started in 2002 by john hunter
+Types of plotting by Mathplotlib:-
+ 1. Linear Plot
+ 2. Scatter Plot
+ 3. Bar and Whisker Plot
+ 4. Stem Plot
+ 5. Step Plot
+ 6. Hist Plot
+ 7. Box Plot
+ 8. Pie Plot
+ 9. Stack and Area Plot
+ 10.Fill_Between Plot
+ 11.Sub Plotl
+
+ importing Mathplotlib:
+  import mathplotlib.pyplot as plt
+    or
+  from mathplotlib import pyplot as plt
+
+Note: label is used for creating a new box depicting a color for a specific topic
+      labels is used for naming the x-axis (or y-axis) partitions 
